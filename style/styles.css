@@ -8,8 +8,6 @@ p {
 div {
   text-align: center;
   display: block;
-}
-a div {
   color: green;
   margin: 0 10px;
 }
